@@ -28,17 +28,17 @@
     <ul>
       <li>
         <a href="https://github.com/AncauAdrian/AdvancedMethodsOfProgramming"> 
-          :santa:  Advanced Methods of Programming
+          Advanced Methods of Programming
         </a>
       </li>
       <li>
         <a href="https://github.com/AncauAdrian/ComputerNetworks"> 
-          :outbox_tray:  Computer Networks 
+          Computer Networks 
         </a>
       </li>
       <li>
         <a href="https://github.com/AncauAdrian/Databases"> 
-          :nut_and_bolt:  Databases 
+          Databases 
         </a>
       </li>
       <li>
