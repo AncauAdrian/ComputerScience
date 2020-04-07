@@ -53,6 +53,7 @@
       <li>
         <a href="https://github.com/AncauAdrian/DatabaseManagementSystems">
           Database Management Systems
+          </a>
       </li>
       <li>
         <a href="https://github.com/AncauAdrian/WebProgramming">
@@ -61,6 +62,7 @@
       <li>
         <a href="https://github.com/Pufcorina/Artificial-Intelligence">
           Artificial Intelligence
+        </a>
       </li>
       </li>
     </ul>
@@ -96,6 +98,16 @@
           Operating Systems Course
         </a>
       </li>
+      <li>
+        <a href="https://github.com/AncauAdrian/OOPcourse"> 
+          Object Oriented Programming Course
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/AncauAdrian/Geometry"> 
+          Geometry Course
+        </a>
+      </li>
     </ul>
   </li>
   <li>:open_file_folder: Semester 3
@@ -108,6 +120,11 @@
       <li>
         <a href="https://github.com/AncauAdrian/CNcourse"> 
           Computer Networks Course
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/AncauAdrian/Statistics"> 
+          Statistics Course
         </a>
       </li>
     </ul>
