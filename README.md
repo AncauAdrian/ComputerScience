@@ -1,5 +1,5 @@
 # ComputerScience
-# UBB
+# Laboratory Work
 <ul>
   <li>:open_file_folder: Semester 1
     <ul>
@@ -62,6 +62,53 @@
         <a href="https://github.com/Pufcorina/Artificial-Intelligence">
           Artificial Intelligence
       </li>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+# Course materials
+
+<ul>
+  <li>:open_file_folder: Semester 1
+    <ul>
+      <li>
+        <a href="https://github.com/AncauAdrian/ComputationalLogic"> 
+          Computational Logic Course
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li>:open_file_folder: Semester 2
+    <ul>
+      <li>
+        <a href="https://github.com/AncauAdrian/DSAcourse"> 
+          Data Structures and Algorithms Course
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/AncauAdrian/DScourse"> 
+          Dynamic Systems Course
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/AncauAdrian/OScourse"> 
+          Operating Systems Course
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li>:open_file_folder: Semester 3
+    <ul>
+      <li>
+        <a href="https://github.com/AncauAdrian/AMPCourse"> 
+          Advanced Methods of Programming Course
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/AncauAdrian/CNcourse"> 
+          Computer Networks Course
+        </a>
       </li>
     </ul>
   </li>
