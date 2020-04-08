@@ -60,7 +60,7 @@
           Web Programming
       </li>
       <li>
-        <a href="https://github.com/Pufcorina/Artificial-Intelligence">
+        <a href="https://github.com/AncauAdrian/ArtificialIntelligence">
           Artificial Intelligence
         </a>
       </li>
